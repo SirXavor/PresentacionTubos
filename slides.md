@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: default
+theme: dark
 paginate: true
 footer: De los circuitos a las abstracciones
 ---
