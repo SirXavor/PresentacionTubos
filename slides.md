@@ -1,9 +1,8 @@
 ---
 marp: true
-theme: dark
-paginate: true
-footer: De los circuitos a las abstracciones
+theme: default
 ---
+<!-- _class: invert -->
 
 # De los circuitos a las abstracciones
 ## Cómo hemos llegado hasta aquí
@@ -145,6 +144,7 @@ footer: De los circuitos a las abstracciones
 > Pasamos de enlaces a nodos
 
 ---
+<!-- _class: invert -->
 
 # La pregunta clave
 
@@ -187,6 +187,7 @@ footer: De los circuitos a las abstracciones
 > Abstracción total de la topología
 
 ---
+<!-- _class: invert -->
 
 # Todo sobre IP
 
@@ -209,6 +210,7 @@ footer: De los circuitos a las abstracciones
 - Seguridad por capas
 
 ---
+<!-- _class: invert -->
 
 # Nueva idea de seguridad
 
@@ -358,13 +360,15 @@ footer: De los circuitos a las abstracciones
 ## os servirá dentro de 10 años?
 
 ---
+<!-- _class: invert -->
+# Las tecnologías cambian  
+## Los principios no
 
-# Respuesta
-
-> Sí, si entendéis las capas  
-> No, si solo memorizáis siglas
+### Entiende el modelo y entenderás cualquier tecnología
 
 ---
+
+
 
 # Gracias
 ## Preguntas
