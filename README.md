@@ -3,4 +3,5 @@
 Charla sobre la evolución de las comunicaciones tácticas y estratégicas
 desde circuitos hasta redes IP y abstracciones modernas.
 
-Para alumnos de la ACING
+🔗 **Presentación online:**  
+https://guerrerodim46.github.io/charla-tubos/
